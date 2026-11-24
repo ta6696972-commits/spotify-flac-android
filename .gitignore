@@ -1,0 +1,21 @@
+# Python 虚拟环境与缓存
+spotdl-env/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 运行日志与下载产物
+*.log
+SpotifyFLAC/
+*.flac
+*.m4a
+*.mp3
+
+# 本地工具/编辑器缓存
+.cache/
+.codebuddy/
+.idea/
+.vscode/
+.DS_Store
